@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:wght@300;400;600;700&family=Inter:wght@100..900&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -33,6 +35,11 @@
     --ring: 222.2 84% 4.9%;
 
     --radius: 0.5rem;
+
+    --burgundy: 21 70% 30%;
+    --gold: 28 65% 55%;
+    --slate-blue: 203 30% 25%;
+    --cream: 48 30% 95%;
 
     --sidebar-background: 0 0% 98%;
 
@@ -87,6 +94,11 @@
     --sidebar-accent-foreground: 240 4.8% 95.9%;
     --sidebar-border: 240 3.7% 15.9%;
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    --burgundy: 21 70% 35%;
+    --gold: 28 65% 60%;
+    --slate-blue: 203 30% 30%;
+    --cream: 48 30% 10%;
   }
 }
 
